@@ -3,6 +3,7 @@
     require_once __DIR__ . '/Models/ProductType.php';
     require_once __DIR__ . '/Models/Product.php';
     require_once __DIR__ . '/db.php';
+    require_once __DIR__ . '/Traits/Discount.php.php';
 ?>
 
 <!DOCTYPE html>
